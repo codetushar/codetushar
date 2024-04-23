@@ -15,10 +15,9 @@
 
 ### 📈 Coding Stats
 
-<p align="center">
- <a href="https://leetcode.com/tusharavi/"><img src="https://leetcard.jacoblin.cool/tusharavi?theme=dark&hide=fork" alt="Tushar's LeetCode stats" /></a>
- <a href="https://github.com/codetushar"><img src="https://github-readme-streak-stats.herokuapp.com?user=codetushar&theme=dark" alt="GitHub Streak" /></a>
-</p>
+|LeetCode|GitHub
+| ------------- | ------------- |
+| <a href="https://leetcode.com/tusharavi/"><img align="center" src="https://leetcard.jacoblin.cool/tusharavi?theme=dark&hide=fork" alt="Tushar's LeetCode stats" /></a> | <a href="https://github.com/codetushar"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=codetushar&theme=dark" /></a> |
 
 ### 🚀 Areas of Expertise
 
